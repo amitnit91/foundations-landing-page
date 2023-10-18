@@ -67,3 +67,57 @@ ul a{
     cursor: pointer;
     
 }
+.section-2{
+    margin: 50px 0px 60px 0px;
+}
+.section-2 .section-2-heading{
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+    text-align: center;
+    margin: 30px 0px 30px 0px;
+}
+.image-card{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    
+} 
+.card{
+    max-width: 250px;
+    
+}
+.card img{
+    width: 250px;
+    height: 250px;  
+    border: 2px solid red;
+}
+.card p{
+    font-size: 18px;
+    color: #1F2937;
+    font-weight: 600;
+    padding: 10px;
+
+}
+.testomonial{
+    background-color: #E5E7EB;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+}
+.testomonial p{
+    font-size: 36px;
+    font-style:italic;
+    color: #1F2937;
+    width: 80%;
+    line-height: 150%;
+}
+.testomonial div{
+    margin-left: auto;
+    font-size: 18px;
+    font-weight: 600;
+}

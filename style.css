@@ -120,6 +120,7 @@ ul a{
     margin-left: auto;
     font-size: 18px;
     font-weight: 600;
+    padding: 0px 10px;
 }
 .section-4{
     height: 40vh;
@@ -156,4 +157,15 @@ ul a{
     border-radius: 10px;
     padding: 0px 40px;
     cursor: pointer;    
+}
+
+.section-5{
+   
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
 }
